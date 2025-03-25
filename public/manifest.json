@@ -1,0 +1,15 @@
+{
+    "name": "To Do Application",
+    "short_name": "To-Do",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A to do application to record and manage daily tasks.",
+    "icons": [
+    {
+    "src": "todo-app-icon.png",
+    "sizes": "256x256",
+    "type": "image/png"
+    }
+    ]
+   }
